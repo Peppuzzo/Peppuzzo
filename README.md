@@ -9,12 +9,4 @@
  - Italy 
  - 😄 Pronouns: Peppe
 
-<h2> Known languages </h2>
-
-<div align="left"> 
-  <img src="https://logospng.org/wp-content/uploads/java.png" height="60" alt="iamge_Java">
-
-
-
-</div>
-
+   
