@@ -8,4 +8,6 @@
  - 🎓 Computer Science Student - University of Camerino 
  - Italy 
  - 😄 Pronouns: Peppe
-   
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Peppuzzo-sudo&theme=merko&show_icons=true&hide_border=true&layout=compact) 
