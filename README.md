@@ -9,5 +9,12 @@
  - Italy 
  - 😄 Pronouns: Peppe
 
+<h2> Known languages </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Peppuzzo-sudo&theme=merko&show_icons=true&hide_border=true&layout=compact) 
+<div align="left"> 
+  <img src="https://logospng.org/wp-content/uploads/java.png" height="60" alt="iamge_Java">
+
+
+
+</div>
+
