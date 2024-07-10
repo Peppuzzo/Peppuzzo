@@ -16,6 +16,8 @@
 
 </div>
 
+<br><b><br>
+
 <p font-size="30%"> <b> Languages​:  </b> </p>
 
 <p align="left">
