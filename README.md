@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<div align="left">
+<div align="right">
 
  - 📫 Where to contact me **giuseppe.43g@libero.it**
 
