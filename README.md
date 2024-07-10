@@ -28,7 +28,13 @@
 
 <hr>
 
+<p font-size:80px;> <b> System:  </b> </p>
 
+<p font-size:60px;>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,gradle" />
+  </a>
+</p>
 
 
 
