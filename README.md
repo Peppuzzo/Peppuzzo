@@ -18,7 +18,7 @@
 
 <br><b><br><br><br>
 
-<p font-size="30%"> <b> Languages​:  </b> </p>
+<p font-size:500px;> <b> Languages​:  </b> </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
