@@ -12,6 +12,7 @@
   </a>
 </p>
 
+<div>
 
  - 📫 Where to contact me **giuseppe.43g@libero.it**
 
@@ -20,6 +21,10 @@
  - Italy 
  
  - 😄 Pronouns: Peppe
+
+  
+</div>
+
 
 
 
