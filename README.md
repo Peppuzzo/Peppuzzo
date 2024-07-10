@@ -2,7 +2,7 @@
 
 <h1 align="center"> I'm Giuseppe Calabrese 🧑🏻‍💻 </h1>
 
-<img align="right" alt="Coding" width="350" height="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif">
+<img align="right" alt="Coding" width="350" height="250" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif">
 
 <div>
 
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,mysql,php,r,haskell,angular" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,mysql,php,r,haskell" />
   </a>
 </p>
 
