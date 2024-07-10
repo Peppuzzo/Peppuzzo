@@ -12,9 +12,37 @@
   </a>
 </p>
 
- - 📫 Where to contact me **giuseppe.43g@libero.it**
- - 🎓 Computer Science Student - University of Camerino 
- - Italy 
- - 😄 Pronouns: Peppe
+<table border="0"> 
+  <tr>
+    <td>
+      - 📫 Where to contact me **giuseppe.43g@libero.it**
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      - 🎓 Computer Science Student - University of Camerino
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+       - Italy 
+    </td>
+  </tr>
+  
+   <tr>
+    <td>
+       - 😄 Pronouns: Peppe
+    </td>
+  </tr>
+  
+</table>
+
+
+ 
+  
+
+ 
 
    
