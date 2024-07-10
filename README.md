@@ -16,7 +16,7 @@
 
 </div>
 
-<p> Known languages ​​and systems</p>
+<h2> Known languages ​​and systems</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
