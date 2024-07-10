@@ -16,7 +16,7 @@
 
 </div>
 
-<p font-size="30%"> <b> Known languages ​​and systems:  </b> </p>
+<p font-size="30%"> <b> Languages​:  </b> </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
