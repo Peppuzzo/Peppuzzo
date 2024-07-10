@@ -36,13 +36,3 @@
   </a>
 </p>
 
-
-
-
-
- **Nome:** [Peppuzzo](https://github.com/Peppuzzo)
-  
-
- 
-
-   
