@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## About me
+
 <h1 align="center"> I'm Giuseppe Calabrese 🧑🏻‍💻 </h1>
 
 <img align="right" alt="Coding" width="350" height="220" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif">
