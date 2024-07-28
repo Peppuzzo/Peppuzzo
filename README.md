@@ -44,4 +44,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
