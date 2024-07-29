@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" widht="100" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
+  <img height="330" widht="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
 </div>
 
 ###
