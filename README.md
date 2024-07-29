@@ -2,7 +2,7 @@
 
 ###
 
-<img margin-left = 500px; height="150" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
+<img margin-left = 20%; height="150" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
 
 ###
 
