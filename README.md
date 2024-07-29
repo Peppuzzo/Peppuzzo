@@ -2,7 +2,7 @@
 
 ###
 
-<img align="center" height="300" widht="100" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
+<img align="right" height="300" widht="100" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
 
 ###
 
