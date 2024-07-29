@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! </h2>
 
-<img align="right" height="150" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
+<img align="center" height="150" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
 
 ###
 
