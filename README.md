@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! </h2>
+<h2 align="left"> Welcome to my profile👋 </h2>
 
 ###
+
+<p> I am passionate about computer technology and love exploring new advancements in the field. I enjoy working on projects that challenge me to learn and grow as a developer. </p>
+
+### Contact Information:
+- **Email:** [giuseppe.43g@libero.it](mailto:giuseppe.43g@libero.it)
 
 <div align="center">
   <img height="330" widht="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
