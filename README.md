@@ -7,9 +7,11 @@
 ### Contact Information:
 - **Email:** [giuseppe.43g@libero.it](mailto:giuseppe.43g@libero.it)
 
+<!--
 <div align="center">
   <img height="330" widht="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
 </div>
+-->
 
 ###
 
