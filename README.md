@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to my profile 👋 </h2>
+<h2 align="center"> Welcome to my profile👋 </h2>
 
 ###
 
@@ -16,12 +16,8 @@
 ###
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" style="margin-right: 20px;"/>
-  </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" alt="Peppuzzo"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -46,8 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
+
 ###
 
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
+
+
