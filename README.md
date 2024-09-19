@@ -7,14 +7,20 @@
 ### Contact Information:
 - **Email:** [giuseppe.43g@libero.it](mailto:giuseppe.43g@libero.it)
 
+<!--
+<div align="center">
+  <img height="330" widht="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
+</div>
+-->
+
 ###
 
-<div align="center" style="display: flex; justify-content: right;">
-  <div style="margin-right: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="200"/>
+<div align="center">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" style="margin-right: 20px;"/>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="200" alt="Peppuzzo"/>
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" alt="Peppuzzo"/>
   </div>
 </div>
 
