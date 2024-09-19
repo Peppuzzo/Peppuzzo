@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to my profile👋 </h2>
+<h2 align="center"> Welcome to my profile 👋 </h2>
 
 ###
 
@@ -16,10 +16,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410"  alt="Peppuzzo"/>
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" style="margin-right: 20px;"/>
+  </div>
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="410" height="200" alt="Peppuzzo"/>
+  </div>
 </div>
-
 
 ###
 
@@ -42,7 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
-
 
 ###
 
