@@ -18,7 +18,7 @@
 ###
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> In qualità di studente di informatica, sto sviluppato nel tempo competenze in un set eterogeneo di linguaggi di programmazione, ognuno dei quali funge da strumento fondamentale nel mio bagaglio culturale di programmatore backend/frontend. Ecco i linguaggi che uso per trasformare problemi complessi in soluzioni. </p>
+<p> As a computer science student, I have developed skills in a diverse set of programming languages, each of which serves as a fundamental tool in my backend/frontend programmer's background. Here are the languages ​​I use to turn complex problems into solutions. </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+    <p> This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to! </p>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
 
