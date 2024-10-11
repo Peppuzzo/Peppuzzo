@@ -14,7 +14,7 @@
 ###
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<p> In qualità di studente di informatica, sto sviluppato nel tempo competenze in un set eterogeneo di linguaggi di programmazione, ognuno dei quali funge da strumento fondamentale nel mio bagaglio culturale di programmatore backend/frontend. Ecco i linguaggi che uso per trasformare problemi complessi in soluzioni. </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
