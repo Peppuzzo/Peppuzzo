@@ -1,26 +1,23 @@
-<h2 align="center"> Welcome to my profile👋 </h2>
+<div align="center">
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Peppuzzo;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+</div>
+
 
 ###
 
-<p> I am passionate about computer technology and love exploring new advancements in the field. I enjoy working on projects that challenge me to learn and grow as a developer. </p>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p> My name is Giuseppe Calabrese and I am a university student at UNICAM. I am passionate about information Technologies. </p>
+</div>
 
 ### Contact Information:
 - **Email:** [giuseppe.43g@libero.it](mailto:giuseppe.43g@libero.it)
 
-<!--
-<div align="center">
-  <img height="330" widht="200" src="https://c.tenor.com/nyIWjHeM-GAAAAAC/smadging-speech-bubble-speech-bubble.gif"  />
-</div>
--->
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=5&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false" width="410" alt="languages graph" />
-</div>
-
-###
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -43,10 +40,29 @@
 </div>
 
 
-###
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+</div>
 
-<br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peppuzzo&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Peppuzzo&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
 
-
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peppuzzo&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Peppuzzo&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Peppuzzo&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peppuzzo&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
