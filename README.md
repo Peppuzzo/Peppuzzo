@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Giuseppe Calabrese, a student at the University of Camerino, passionate about programming, software design, and computer systems.<br>I'm currently developing my skills in technologies such as Java, Python, and SQL, along with modern development tools like Gradle, Git, and UML.<br><br>📫 Contact me: <a> giuseppe.43g@libero.it </a><br><br>💡 Curious, methodical, and always eager to explore new areas in the world of software development.</p>
+<p align="left">👋 Hi! I'm Giuseppe Calabrese, a student at the University of Camerino, passionate about programming, software design, and computer systems.<br>I'm currently developing my skills in technologies such as Java, Python, and SQL, along with modern development tools like Gradle, Git, and UML.<br><br>📫 Contact me: giuseppe.43g@libero.it<br><br>💡 Curious, methodical, and always eager to explore new areas in the world of software development.</p>
 
 ###
 
@@ -50,13 +50,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peppuzzo/Peppuzzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peppuzzo/Peppuzzo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Peppuzzo/Peppuzzo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
