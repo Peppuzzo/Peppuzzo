@@ -16,9 +16,9 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Peppuzzo's GitHub Stats" />
-
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peppuzzo&layout=compact&langs_count=5&theme=dracula" alt="Peppuzzo's Top Languages" />
 </div>
 
