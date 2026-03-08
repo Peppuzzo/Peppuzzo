@@ -1,11 +1,5 @@
 <h2 align="center">Hi! <br>I'm Peppuzzo 👋</h2>
 
-### GitHub Stats
-
-[![Peppuzzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peppuzzo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/Peppuzzo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peppuzzo&layout=compact&langs_count=5&theme=dracula)](https://github.com/Peppuzzo)
-
 ###
 
 <p align="left"></p>
