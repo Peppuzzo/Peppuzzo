@@ -2,14 +2,23 @@
 
 ###
 
+<p align="left">👋 Hi! I'm Giuseppe Calabrese, a student at the University of Camerino, passionate about programming, software design, and computer systems.<br>I'm currently developing my skills in technologies such as Java, Python, and SQL, along with modern development tools like Gradle, Git, and UML.<br><br>📫 Contact me: giuseppe.43g@libero.it<br><br>💡 Curious, methodical, and always eager to explore new areas in the world of software development.</p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/oE-eMpmCEBoAAAAj/hacker-programming.gif"  />
+</div>
+
+###
+
 <p align="left"></p>
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Peppuzzo's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peppuzzo&layout=compact&langs_count=5&theme=dracula" alt="Peppuzzo's Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peppuzzo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppuzzo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
