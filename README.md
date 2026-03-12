@@ -51,5 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-<img src="https://github.com/Peppuzzo/Peppuzzo/blob/main/pacman.yml" alt="Snake animation" />
 
