@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Giuseppe Calabrese, a student at the University of Camerino, passionate about programming, software design, and computer systems.<br>I'm currently developing my skills in technologies such as Java, Python, and SQL, along with modern development tools like Gradle, Git, and UML.<br><br>📫 Contact me: giuseppe.43g@libero.it<br><br>💡 Curious, methodical, and always eager to explore new areas in the world of software development.</p>
-
-###
-
 <div align="center">
   <img height="150" src="https://media.tenor.com/oE-eMpmCEBoAAAAj/hacker-programming.gif"  />
 </div>
+
+###
+
+<p align="left">👋 Hi! I'm Giuseppe Calabrese, a student at the University of Camerino, passionate about programming, software design, and computer systems.<br>I'm currently developing my skills in technologies such as Java, Python, and SQL, along with modern development tools like Gradle, Git, and UML.<br><br>📫 Contact me: giuseppe.43g@libero.it<br><br>💡 Curious, methodical, and always eager to explore new areas in the world of software development.</p>
 
 ###
 
