@@ -50,3 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/Peppuzzo/Peppuzzo/output/snake.svg" alt="Snake animation" />
+
